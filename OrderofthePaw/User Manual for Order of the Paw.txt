@@ -1,0 +1,16 @@
+User Manual for Order of the Paw
+
+
+For the game to work, you need Visual Studio and MonoGame downloaded onto your system.
+
+When you download the file, you need to extract it, and then go through the folder until you find the Visual Studio solution file for the game.
+Once you find it, open it, and then hit ctrl + f5 in order to play the game. The game requires the use of both the keyboard and a mouse, so
+make sure you have some form of these enabled before playing the game.
+
+Once the game is up and running, use the mouse to click on any buttons on the screen. When you hit "Play Game", the game automatically starts,
+and you control the main character using WASD. To shoot, use the arrow keys to fire in the direction you press. To pause the game, hit the "P"
+key. To switch weapons, hit the shift key.
+
+The objective of the game is to give all the dog minions either treats or affection to fend them off and make them go away. Once you clear the
+room of all the doggos, you win the game and have been knighted by the Order of the Paw. Losing the game means that you have collided with the
+dogs on the screen and have lost all of your health. If you die, you can simply return to the main menu and play the game again. 

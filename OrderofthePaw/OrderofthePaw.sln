@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderofthePaw", "OrderofthePaw\OrderofthePaw.csproj", "{6500C331-81B5-47E0-8055-9849B5A5007A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6500C331-81B5-47E0-8055-9849B5A5007A}.Debug|x86.ActiveCfg = Debug|x86
+		{6500C331-81B5-47E0-8055-9849B5A5007A}.Debug|x86.Build.0 = Debug|x86
+		{6500C331-81B5-47E0-8055-9849B5A5007A}.Release|x86.ActiveCfg = Release|x86
+		{6500C331-81B5-47E0-8055-9849B5A5007A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C25215F1-A1DA-4E6D-9A87-BB85C8EB5E62}
+	EndGlobalSection
+EndGlobal
